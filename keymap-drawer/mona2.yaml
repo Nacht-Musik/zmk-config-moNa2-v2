@@ -16,7 +16,7 @@ layers:
   - D
   - F
   - G
-  - '-'
+  - '`'
   - H
   - J
   - K
@@ -28,7 +28,7 @@ layers:
   - V
   - B
   - BACKSPACE
-  - {t: '-', h: RIGHT GUI}
+  - '-'
   - N
   - M
   - ','
@@ -42,7 +42,7 @@ layers:
   - {t: LEFT SHIFT, type: held}
   - {t: Ctl+SPACE, h: NUM_W, type: held}
   - {t: ENTER, h: FN_W}
-  - '`'
+  - '-'
   MOUSE_W:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -286,7 +286,7 @@ layers:
   - {t: ▽, type: trans}
   - OUT BLE
   - {t: ▽, type: trans}
-  - '&bootloader'
+  - {t: ▽, type: trans}
   - BT CLR
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
